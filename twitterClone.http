@@ -1,0 +1,137 @@
+#
+#
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/username
+Content-Type: application/json
+{
+    "username": "adam_richard",
+    "password": "richard_567",
+    "name": "Adam Richard",
+    "gender": "male"
+}
+
+#
+##
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/password
+Content-Type: application/json
+{
+    "username": "adam_richard",
+    "password": "richard_567",
+    "name": "Adam Richard",
+    "gender": "male"
+}
+
+#
+###
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/
+Content-Type: application/json
+{
+    "username": "adam_richard",
+    "password": "richard_567",
+    "name": "Adam Richard",
+    "gender": "male"
+}
+
+##
+#
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/username
+Content-Type: application/json
+{
+    "username": "JoeBiden",
+    "password": "biden@123"
+}
+
+
+##
+##
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/password
+Content-Type: application/json
+{
+    "username": "JoeBiden",
+    "password": "biden@123"
+}
+
+##
+###
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech
+Content-Type: application/json
+{
+    "username": "JoeBiden",
+    "password": "biden@123"
+}
+
+###
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/user/tweets/feed/
+
+
+
+####
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/user/following/
+
+
+
+#####
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/user/followers/
+
+
+
+
+######
+#
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/4/
+
+
+
+######
+##
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/4/
+
+
+
+
+#######
+#
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/3/likes/
+
+
+
+#######
+##
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/3/likes/
+
+
+
+
+########
+#
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/1/replies/
+
+
+
+
+########
+#
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/1/replies/
+
+
+
+
+#########
+GET https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/user/tweets/
+
+
+
+##########
+POST https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/user/tweets/
+
+Content-Type: application/json
+{
+   "tweet": "The Mornings..."
+}
+
+
+
+
+###########
+DELETE https://yogichaitanyapncjfnjscadijbi.drops.nxtwave.tech/tweets/2/
+
+
